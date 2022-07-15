@@ -23,7 +23,7 @@ public class Main {
         String basePath = "absolute/path/to/repo";
 
         Set<TriplesMap> mapping = RmlMappingLoader.build()
-                .load(RDFFormat.TURTLE, Paths.get("mapping.ttl"));
+                .load(RDFFormat.TURTLE, Paths.get(basePath + "mapping.ttl"));
 
         RdfRmlMapper mapper = RdfRmlMapper.builder()
                 // add mappings

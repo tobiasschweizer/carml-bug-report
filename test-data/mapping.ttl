@@ -37,4 +37,3 @@
       rml:reference "institutions.*.country_code"
     ]
   ] .
-  
