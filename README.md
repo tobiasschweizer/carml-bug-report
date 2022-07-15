@@ -5,7 +5,7 @@ This repo documents a bug I have encountered when using CARML.
 Steps to reproduce:
 - adapt `basePath` in `src/main/java/org/example/Main.java` (absolute path to this repo on local file system)
 - run `src/main/java/org/example/Main.java`: 
-```aidl
+```
 Exception in thread "main" java.lang.NullPointerException
 	at io.carml.engine.rdf.RdfTermGeneratorFactory.createNaturalRdfLexicalForm(RdfTermGeneratorFactory.java:481)
 	at io.carml.engine.rdf.RdfTermGeneratorFactory.lambda$unpackEvaluatedExpression$27(RdfTermGeneratorFactory.java:446)
