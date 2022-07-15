@@ -1,0 +1,738 @@
+{
+  "id": "https://openalex.org/W19828709",
+  "doi": null,
+  "title": "Artificial Intelligence and Tutoring Systems: Computational and Cognitive Approaches to the Communication of Knowledge",
+  "display_name": "Artificial Intelligence and Tutoring Systems: Computational and Cognitive Approaches to the Communication of Knowledge",
+  "relevance_score": 382.6857,
+  "publication_year": 1987,
+  "publication_date": "1987-10-01",
+  "ids": {
+    "openalex": "https://openalex.org/W19828709",
+    "mag": "19828709"
+  },
+  "host_venue": {
+    "id": null,
+    "issn_l": null,
+    "issn": null,
+    "display_name": null,
+    "publisher": null,
+    "type": null,
+    "url": "https://www.amazon.com/Artificial-Intelligence-Tutoring-Systems-Computational/dp/1483207684",
+    "is_oa": null,
+    "version": null,
+    "license": null
+  },
+  "type": "book",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": null,
+    "oa_url": null
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A2108436817",
+        "display_name": "Etienne Wenger",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204250578",
+          "display_name": "University of California, Irvine",
+          "ror": "https://ror.org/04gyf1771",
+          "country_code": "US",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "University of California, Irvine **"
+    }
+  ],
+  "cited_by_count": 693,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": null,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": "0.580765"
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": "0.478109"
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": "0.438376"
+    },
+    {
+      "id": "https://openalex.org/C188147891",
+      "wikidata": "https://www.wikidata.org/wiki/Q147638",
+      "display_name": "Cognitive science",
+      "level": 1,
+      "score": "0.380962"
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human\u2013computer interaction",
+      "level": 1,
+      "score": "0.372828"
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": "0.358256"
+    }
+  ],
+  "mesh": [],
+  "alternate_host_venues": [],
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2075028344",
+    "https://openalex.org/W2163640453",
+    "https://openalex.org/W1984938651",
+    "https://openalex.org/W1986163437",
+    "https://openalex.org/W1998696323",
+    "https://openalex.org/W1708874574",
+    "https://openalex.org/W1489410353",
+    "https://openalex.org/W1593414871",
+    "https://openalex.org/W2136208491",
+    "https://openalex.org/W2116199508",
+    "https://openalex.org/W2016288462",
+    "https://openalex.org/W2112564774",
+    "https://openalex.org/W2122410182",
+    "https://openalex.org/W2173737653",
+    "https://openalex.org/W2106969952",
+    "https://openalex.org/W1815090327",
+    "https://openalex.org/W2172010324",
+    "https://openalex.org/W2135943618",
+    "https://openalex.org/W2097679245",
+    "https://openalex.org/W1984529325"
+  ],
+  "abstract_inverted_index": {
+    "From": [
+      0
+    ],
+    "Marie": [
+      1
+    ],
+    "Bienkowski's": [
+      2
+    ],
+    "review": [
+      3,
+      120
+    ],
+    ":": [
+      4
+    ],
+    "Upon": [
+      5
+    ],
+    "first": [
+      6,
+      93
+    ],
+    "encountering": [
+      7
+    ],
+    "Etienne": [
+      8
+    ],
+    "Wenger's": [
+      9,
+      83,
+      207
+    ],
+    "book,": [
+      10
+    ],
+    "Artificial": [
+      11
+    ],
+    "Intelligence": [
+      12
+    ],
+    "and": [
+      13,
+      17,
+      101,
+      108,
+      112,
+      126,
+      143,
+      163,
+      180,
+      192,
+      226
+    ],
+    "Tutoring": [
+      14
+    ],
+    "Systems:": [
+      15
+    ],
+    "Computational": [
+      16
+    ],
+    "Cognitive": [
+      18
+    ],
+    "Approaches": [
+      19
+    ],
+    "to": [
+      20,
+      87,
+      110,
+      145,
+      222
+    ],
+    "the": [
+      21,
+      30,
+      45,
+      56,
+      76,
+      135,
+      138,
+      146,
+      154,
+      169
+    ],
+    "Communication": [
+      22
+    ],
+    "of": [
+      23,
+      32,
+      130,
+      137,
+      178
+    ],
+    "Knowledge,": [
+      24
+    ],
+    "I": [
+      25,
+      49,
+      69
+    ],
+    "assumed": [
+      26
+    ],
+    "that": [
+      27,
+      34,
+      153,
+      240
+    ],
+    "it": [
+      28,
+      53,
+      150,
+      212,
+      217,
+      227
+    ],
+    "was": [
+      29,
+      85
+    ],
+    "sort": [
+      31
+    ],
+    "book": [
+      33,
+      84,
+      139,
+      155,
+      173,
+      208
+    ],
+    "would": [
+      35,
+      50,
+      70
+    ],
+    "serve": [
+      36
+    ],
+    "only": [
+      37
+    ],
+    "as": [
+      38,
+      140,
+      214
+    ],
+    "a": [
+      39,
+      89,
+      124,
+      141,
+      187,
+      215,
+      219,
+      229
+    ],
+    "reference.": [
+      40
+    ],
+    "To": [
+      41,
+      60
+    ],
+    "find": [
+      42
+    ],
+    "out": [
+      43,
+      95,
+      167,
+      186
+    ],
+    "about": [
+      44,
+      234
+    ],
+    "EXCHECK": [
+      46
+    ],
+    "tutoring": [
+      47,
+      63,
+      195,
+      224
+    ],
+    "system,": [
+      48
+    ],
+    "just": [
+      51
+    ],
+    "look": [
+      52,
+      71
+    ],
+    "up": [
+      54,
+      72
+    ],
+    "in": [
+      55,
+      75,
+      98,
+      114,
+      168,
+      201,
+      236
+    ],
+    "exhaustive": [
+      57
+    ],
+    "subject": [
+      58
+    ],
+    "index.": [
+      59,
+      78
+    ],
+    "see": [
+      61
+    ],
+    "what": [
+      62
+    ],
+    "work": [
+      64
+    ],
+    "Beverly": [
+      65
+    ],
+    "Woolf": [
+      66
+    ],
+    "had": [
+      67,
+      156
+    ],
+    "done,": [
+      68
+    ],
+    "her": [
+      73
+    ],
+    "name": [
+      74
+    ],
+    "author": [
+      77
+    ],
+    "But,": [
+      79
+    ],
+    "upon": [
+      80
+    ],
+    "further": [
+      81,
+      133
+    ],
+    "examination,": [
+      82
+    ],
+    "revealed": [
+      86
+    ],
+    "be": [
+      88
+    ],
+    "good": [
+      90
+    ],
+    "introductory": [
+      91
+    ],
+    "text,": [
+      92
+    ],
+    "laying": [
+      94
+    ],
+    "basic": [
+      96
+    ],
+    "issues": [
+      97,
+      235
+    ],
+    "Chapters": [
+      99,
+      115,
+      202
+    ],
+    "1": [
+      100
+    ],
+    "2,": [
+      102
+    ],
+    "then": [
+      103
+    ],
+    "covering": [
+      104
+    ],
+    "systems": [
+      105
+    ],
+    "from": [
+      106
+    ],
+    "SCHOLAR": [
+      107
+    ],
+    "SOPHIE": [
+      109
+    ],
+    "GUIDON": [
+      111
+    ],
+    "ACTP": [
+      113
+    ],
+    "3": [
+      116
+    ],
+    "through": [
+      117,
+      204
+    ],
+    "13.": [
+      118
+    ],
+    "Each": [
+      119
+    ],
+    "chapter": [
+      121
+    ],
+    "ends": [
+      122
+    ],
+    "with": [
+      123
+    ],
+    "summary": [
+      125
+    ],
+    "an": [
+      127
+    ],
+    "excellent": [
+      128
+    ],
+    "set": [
+      129
+    ],
+    "bibliographic": [
+      131
+    ],
+    "notes,": [
+      132
+    ],
+    "reinforcing": [
+      134
+    ],
+    "utility": [
+      136
+    ],
+    "reference": [
+      142
+    ],
+    "introduction": [
+      144,
+      221
+    ],
+    "field.": [
+      147
+    ],
+    "In": [
+      148
+    ],
+    "addition,": [
+      149
+    ],
+    "became": [
+      151
+    ],
+    "clear": [
+      152
+    ],
+    "another": [
+      157
+    ],
+    "facet.": [
+      158
+    ],
+    "As": [
+      159
+    ],
+    "John": [
+      160
+    ],
+    "Seely": [
+      161
+    ],
+    "Brown": [
+      162
+    ],
+    "James": [
+      164
+    ],
+    "Greeno": [
+      165
+    ],
+    "point": [
+      166
+    ],
+    "introduction,": [
+      170
+    ],
+    "...": [
+      171
+    ],
+    "this": [
+      172
+    ],
+    "is": [
+      174,
+      199
+    ],
+    "no": [
+      175
+    ],
+    "mere": [
+      176
+    ],
+    "catalog": [
+      177
+    ],
+    "programs": [
+      179
+    ],
+    "techniques...": [
+      181
+    ],
+    "he": [
+      182
+    ],
+    "has": [
+      183
+    ],
+    "also": [
+      184
+    ],
+    "laid": [
+      185
+    ],
+    "provocative": [
+      188
+    ],
+    "framework": [
+      189,
+      198,
+      231
+    ],
+    "for": [
+      190,
+      232
+    ],
+    "analyzing": [
+      191
+    ],
+    "comparing": [
+      193
+    ],
+    "intelligent": [
+      194,
+      223,
+      238
+    ],
+    "systems.": [
+      196
+    ],
+    "This": [
+      197
+    ],
+    "presented": [
+      200
+    ],
+    "14": [
+      203
+    ],
+    "20.": [
+      205
+    ],
+    "Thus,": [
+      206
+    ],
+    "serves": [
+      209
+    ],
+    "three": [
+      210
+    ],
+    "purposes:": [
+      211
+    ],
+    "acts": [
+      213
+    ],
+    "reference,": [
+      216
+    ],
+    "provides": [
+      218
+    ],
+    "comprehensive": [
+      220
+    ],
+    "systems,": [
+      225
+    ],
+    "develops": [
+      228
+    ],
+    "coherent": [
+      230
+    ],
+    "thinking": [
+      233
+    ],
+    "any": [
+      237
+    ],
+    "system": [
+      239
+    ],
+    "must": [
+      241
+    ],
+    "communicate": [
+      242
+    ],
+    "its": [
+      243
+    ],
+    "knowledge.": [
+      244
+    ],
+    "(http://dl.acm.org/citation.cfm?id=1059726)": [
+      245
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W19828709",
+  "counts_by_year": [
+    {
+      "year": 2021,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 17
+    }
+  ],
+  "updated_date": "2021-12-23",
+  "created_date": "2016-06-24"
+}
